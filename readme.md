@@ -1,1 +1,1 @@
-# Laboratorio Cloud
+# Laboratorio Cloud - Deploy manual Github Pages
